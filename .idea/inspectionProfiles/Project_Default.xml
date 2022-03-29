@@ -13,6 +13,7 @@
         <list>
           <option value="Test.*" />
           <option value="dict.get" />
+          <option value="pygame.sprite.Sprite.bullet_type" />
         </list>
       </option>
     </inspection_tool>
